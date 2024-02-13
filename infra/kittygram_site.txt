@@ -1,5 +1,5 @@
-IP: IP вашего удалённого сервера;
-name_taski: полная ссылка (https://51.250.23.101) на ваш проект Taski;
-name_kittygram: полная ссылка (https://peepingcent.hopto.org) на ваш проект Kittygram;
-login: логин суперпользователя;
-password: пароль суперпользователя;
+IP: 51.250.23.101;
+name_taski: https://51.250.23.101;
+name_kittygram: https://peepingcent.hopto.org;
+login: rpmanburov89@yandex.ru;
+password: 07251989Roma!;
