@@ -1,5 +1,5 @@
 IP: 51.250.23.101;
 name_taski: https://taskipeeping.hopto.org;
 name_kittygram: https://peepingcent.hopto.org;
-login: romanburov89@yandex.ru;
+login: romanburov999;
 password: 07251989Roma!;
